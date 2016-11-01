@@ -79,4 +79,4 @@ Library
                         vector
 
   include-dirs:         include
-  pkgconfig-depends:    hdf5
+  -- pkgconfig-depends:    hdf5
