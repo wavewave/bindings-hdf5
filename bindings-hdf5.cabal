@@ -80,3 +80,4 @@ Library
 
   include-dirs:         include
   -- pkgconfig-depends:    hdf5
+  extra-libraries:      hdf5
