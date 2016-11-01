@@ -11,7 +11,7 @@ module Bindings.HDF5.Raw
     , module Bindings.HDF5.Raw.H5FD.Core
     , module Bindings.HDF5.Raw.H5FD.Family
     , module Bindings.HDF5.Raw.H5FD.Log
-    , module Bindings.HDF5.Raw.H5FD.MPI
+    -- , module Bindings.HDF5.Raw.H5FD.MPI
     , module Bindings.HDF5.Raw.H5FD.Multi
     , module Bindings.HDF5.Raw.H5FD.Sec2
     , module Bindings.HDF5.Raw.H5FD.StdIO
@@ -42,7 +42,7 @@ import Bindings.HDF5.Raw.H5FD
 import Bindings.HDF5.Raw.H5FD.Core
 import Bindings.HDF5.Raw.H5FD.Family
 import Bindings.HDF5.Raw.H5FD.Log
-import Bindings.HDF5.Raw.H5FD.MPI
+-- import Bindings.HDF5.Raw.H5FD.MPI
 import Bindings.HDF5.Raw.H5FD.Multi
 import Bindings.HDF5.Raw.H5FD.Sec2
 import Bindings.HDF5.Raw.H5FD.StdIO

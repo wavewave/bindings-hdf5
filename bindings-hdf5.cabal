@@ -39,7 +39,7 @@ Library
                         Bindings.HDF5.Raw.H5FD.Core
                         Bindings.HDF5.Raw.H5FD.Family
                         Bindings.HDF5.Raw.H5FD.Log
-                        Bindings.HDF5.Raw.H5FD.MPI
+                        -- Bindings.HDF5.Raw.H5FD.MPI
                         Bindings.HDF5.Raw.H5FD.Multi
                         Bindings.HDF5.Raw.H5FD.Sec2
                         Bindings.HDF5.Raw.H5FD.StdIO
